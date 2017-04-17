@@ -8,13 +8,15 @@ Useful checklists and conventions to check your code against.
 
 [Java 8 API design checklist](https://dzone.com/articles/the-java-8-api-design-principles): extension of the checklist above.
 
-## Examples
-Examples of code implementations that can be useful for development.
+## Concepts and examples
+Code concepts and examples that may be useful.
 
 [Design Patterns in Java](https://github.com/iluwatar/java-design-patterns): examples of all GoF design patterns in Java.
 
-## Networking/IO
-Useful resources on writing IO software.
+[Decoupling](https://blog.frankel.ch/simplest-java-decoupling-without-3rd-party-frameworks/#gsc.tab=0): explanation and example of decoupling concept in Java.
 
-## Threading
-Useful resources on writing quality threaded software.
+[Inheritance vs Composition](http://www.javaworld.com/article/2076814/core-java/inheritance-versus-composition--which-one-should-you-choose-.html): when to use inheritance and when to use composition. Includes discussion about tight and loose coupling.
+
+[Thread safety through to use of concurrency locks](https://docs.oracle.com/javase/tutorial/essential/concurrency/newlocks.html): write thread safe code with the use of locks.
+
+[Design for thread safety](http://www.javaworld.com/article/2076747/core-java/design-for-thread-safety.html): **Pretty old article**
